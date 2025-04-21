@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (depending on size, you may want to include or exclude them)
+# data/
+
+# System files
+.DS_Store 
